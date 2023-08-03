@@ -1,5 +1,3 @@
-pip install tkinter
-import tkinter
 from tkinter import ttk
 from tkinter import messagebox
 #from tkinter import messagebox
