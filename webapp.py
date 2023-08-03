@@ -1,5 +1,5 @@
 from tkinter import*
-import os
+#import os
 #import openpyxl
 window = tkinter.Tk()
 window.title("Registration Form")
